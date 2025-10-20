@@ -34,9 +34,8 @@ Want to build something cool or just talk about web dev? You can reach me on [Di
 
 #
 
-### My Skills and Tools & Software I Use
+### Here are the technologies I work with:
 
-Here are the technologies I work with:
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,vscode,github,git,discord)
 
 #
