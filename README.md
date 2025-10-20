@@ -4,11 +4,11 @@ const response = {
   data: {
     person: {
       name: "Amin",
-      nickname: "DELOYPER",
+      nickname: "Aydope",
       birthday: "01 June",
     },
     skills: {
-      frontend: ["HTML", "CSS", "JavaScript", "React.js", "TypeScript"],
+      frontend: ["Html5", "Css3", "JavaScript", "TypeScript", "React.js"],
       backend: ["Node.js", "Express.js"],
       database: ["MongoDB"],
       other: ["Git", "REST APIs"],
@@ -17,7 +17,7 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.0.6",
+    version: "1.0.2",
   },
 };
 ```
@@ -36,12 +36,12 @@ Here are the technologies I work with:
 
 #
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deloyper&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
-![GitHub Streak](https://streak-stats.demolab.com/?user=deloyper&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aydope&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aydope&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 
 #
 
-![Snake](https://raw.githubusercontent.com/deloyper/deloyper/35dc78274094d7e23f0d41c0cdf5dbdefdb8483e/github-contribution-grid-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/aydope/aydope/ffdb9a2726700a49fe3e71d10abeaf2f31744b29/github-contribution-grid-snake-dark.svg)
 
 #
 
@@ -49,6 +49,6 @@ I’m now ready to start working on real projects and build something great. If 
 
 #
 
-![](https://komarev.com/ghpvc/?username=deloyper&color=red)
+![](https://komarev.com/ghpvc/?username=aydope&color=red)
 <br />
 ![](https://badgen.net/discord/members/2EKQ4NKkYU)
