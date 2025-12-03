@@ -22,7 +22,7 @@ const response = {
 };
 ```
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Amin;A+Full-Stack+Web+Developer;I+specialize+in+web+development;Passionate+about+building+scalable+web+applications;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Amin;a+Full-Stack+Web+Developer;I+specialize+in+web+development;Passionate+about+building+scalable+web+applications;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/></h1>
 
 I'm Amin, a web developer from Iran who loves coding and building cool things.
 
@@ -30,7 +30,7 @@ I have a good understanding of web development and I'm skilled in **Front-End**,
 
 Even though I don’t have professional experience yet, I’ve worked on **several** projects that helped me grow as a developer and understand how to build better, cleaner code.
 
-Want to build something cool or just talk about web dev? You can reach me on [Discord](https://discord.gg/f9FwaqMvbW).
+Want to build something cool or just talk about web dev? You can reach me on [Discord](https://discord.gg/Pqu4MyC9mx).
 
 #
 
