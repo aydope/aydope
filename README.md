@@ -17,7 +17,7 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.1.6",
+    version: "1.1.7",
   },
 };
 ```
@@ -36,11 +36,10 @@ Want to build something cool or just talk about web dev? You can reach me on [Di
 
 ### Here are the technologies I work with:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,vscode,github,git,discord)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,vscode,github,git)
 
 #
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydope&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aydope&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 
 #
@@ -49,6 +48,6 @@ Want to build something cool or just talk about web dev? You can reach me on [Di
 
 #
 
-[![Discord](https://badgen.net/discord/members/f9FwaqMvbW)](https://discord.gg/f9FwaqMvbW)<br>
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://aydope.github.io)
-<img src="https://komarev.com/ghpvc/?username=aydope&color=brightgreen" alt="Profile Views" />
+[![Discord](https://badgen.net/discord/members/f9FwaqMvbW)](https://discord.gg/Pqu4MyC9mx)<br>
+[![Website](https://img.shields.io/website-up-down-green-red/https/aydope.github.io.svg)](https://aydope.github.io)
+<img src="https://komarev.com/ghpvc/?username=aydope&color=blue" alt="Profile Views" />
