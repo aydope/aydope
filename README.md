@@ -17,7 +17,7 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.1.7",
+    version: "1.1.8",
   },
 };
 ```
@@ -30,7 +30,7 @@ I have a good understanding of web development and I'm skilled in **Front-End**,
 
 Even though I don’t have professional experience yet, I’ve worked on **several** projects that helped me grow as a developer and understand how to build better, cleaner code.
 
-Want to build something cool or just talk about web dev? You can reach me on [Discord](https://discord.gg/f9FwaqMvbW) or anywhere I’m active online 😄
+Want to build something cool or just talk about web dev? You can reach me on [Discord](https://discord.gg/f9FwaqMvbW).
 
 #
 
@@ -48,6 +48,6 @@ Want to build something cool or just talk about web dev? You can reach me on [Di
 
 #
 
-[![Discord](https://badgen.net/discord/members/f9FwaqMvbW)](https://discord.gg/Pqu4MyC9mx)<br>
+[![Discord](https://badgen.net/discord/members/Pqu4MyC9mx)](https://discord.gg/Pqu4MyC9mx)<br>
 [![Website](https://img.shields.io/website-up-down-green-red/https/aydope.github.io.svg)](https://aydope.github.io)
 <img src="https://komarev.com/ghpvc/?username=aydope&color=blue" alt="Profile Views" />
