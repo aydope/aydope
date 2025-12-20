@@ -4,8 +4,8 @@ const response = {
   data: {
     person: {
       name: "Amin",
-      nickname: "Aydope",
-      birthday: "01 June",
+      knownAs: "Aydope",
+      dob: "June 1st",
     },
     skills: {
       frontend: ["Html5", "Css3", "JavaScript", "TypeScript", "React.js"],
@@ -17,7 +17,7 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.1.8",
+    version: "1.2.2",
   },
 };
 ```
@@ -28,7 +28,7 @@ I'm Amin, a web developer from Iran who loves coding and building cool things.
 
 I have a good understanding of web development and I'm skilled in **Front-End**, **Back-End**. I’ve spent a lot of time learning and working on **personal projects** to improve my skills.
 
-Even though I don’t have professional experience yet, I’ve worked on **several** projects that helped me grow as a developer and understand how to build better, cleaner code.
+Even though I don’t have professional experience yet, I’ve worked on **several** personal projects that helped me grow as a developer and understand how to build better, cleaner code.
 
 Want to build something cool or just talk about web dev? You can reach me on [Discord](https://discord.gg/Pqu4MyC9mx).
 
@@ -36,11 +36,11 @@ Want to build something cool or just talk about web dev? You can reach me on [Di
 
 ### Here are the technologies I work with:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,vscode,github,git)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,vscode,github,git,expressjs,react,gitlab,npm)
 
 #
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aydope&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydope&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 
 #
 
@@ -49,5 +49,5 @@ Want to build something cool or just talk about web dev? You can reach me on [Di
 #
 
 [![Discord](https://badgen.net/discord/members/Pqu4MyC9mx)](https://discord.gg/Pqu4MyC9mx)<br>
-[![Website](https://img.shields.io/website-up-down-green-red/https/aydope.github.io.svg)](https://aydope.github.io)
+[![Website](https://img.shields.io/website-up-down-blue-green/https/aydope.github.io.svg)](https://aydope.github.io)<br>
 <img src="https://komarev.com/ghpvc/?username=aydope&color=blue" alt="Profile Views" />
