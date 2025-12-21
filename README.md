@@ -1,3 +1,5 @@
+<h1 align="center"><img src="https://github.com/aydope/aydope/blob/master/pic.jpg?raw=true" alt="Aydope"/></h1>
+
 ```js
 const response = {
   status: 200,
