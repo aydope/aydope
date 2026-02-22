@@ -1,5 +1,3 @@
-<h1 align="center"><img src="https://github.com/aydope/aydope/blob/master/pic.jpg?raw=true" alt="Aydope"/></h1>
-
 ```js
 const response = {
   status: 200,
@@ -19,30 +17,30 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.2.2",
+    version: "1.4.3",
   },
 };
 ```
 
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Amin;a+Full-Stack+Web+Developer;I+specialize+in+web+development;Passionate+about+building+scalable+web+applications;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/></h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=720&lines=Hi+I'm+Amin;I'm+a+MERN-Stack+Developer;I+build+modern+and+scalable+web+apps;I+like+writing+clean+and+simple+code;Welcome+to+my+GitHub+profile" alt="Typing SVG"/></h1>
 
 I'm Amin, a web developer from Iran who loves coding and building cool things.
 
-I have a good understanding of web development and I'm skilled in **Front-End**, **Back-End**. I’ve spent a lot of time learning and working on **personal projects** to improve my skills.
+I have a solid understanding of web development and work comfortably in both **Front-End** and **Back-End** development. I focus on learning continuously and building personal projects to strengthen my skills and deepen my knowledge.
 
-Even though I don’t have professional experience yet, I’ve worked on **several** personal projects that helped me grow as a developer and understand how to build better, cleaner code.
+While I’m still at the beginning of my professional journey, I’ve completed several personal projects that helped me grow as a developer and write cleaner, more structured, and maintainable code.
 
-Want to build something cool or just talk about web dev? You can reach me on [Discord](https://discord.gg/Pqu4MyC9mx).
+If you’re interested in building something exciting or simply want to chat about web development, feel free to reach out to me on [Discord](https://discord.gg/Pqu4MyC9mx).
 
 #
 
 ### Here are the technologies I work with:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,mongodb,vscode,github,git,expressjs,react,gitlab,npm)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,ts,react,npm,nodejs,expressjs,mongodb,gitlab,vscode)
 
 #
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydope&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aydope&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 
 #
 
@@ -51,5 +49,5 @@ Want to build something cool or just talk about web dev? You can reach me on [Di
 #
 
 [![Discord](https://badgen.net/discord/members/Pqu4MyC9mx)](https://discord.gg/Pqu4MyC9mx)<br>
-[![Website](https://img.shields.io/website-up-down-blue-green/https/aydope.github.io.svg)](https://aydope.github.io)<br>
-<img src="https://komarev.com/ghpvc/?username=aydope&color=blue" alt="Profile Views" />
+[![Website](https://img.shields.io/website-up-down-green-red/https/aydope.github.io.svg)](https://aydope.github.io)<br>
+<img src="https://komarev.com/ghpvc/?username=aydope&color=brightgreen" alt="Profile Views" />
