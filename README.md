@@ -17,7 +17,7 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.4.6",
+    version: "1.5.6",
   },
 };
 ```
@@ -30,7 +30,11 @@ I have a solid understanding of web development and work comfortably in both **F
 
 While I’m still at the beginning of my professional journey, I’ve completed several personal projects that helped me grow as a developer and write cleaner, more structured, and maintainable code.
 
-If you’re interested in building something exciting or simply want to chat about web development, feel free to reach out to me on [Discord](https://discord.gg/Pqu4MyC9mx).
+Feel free to reach out on [Discord](https://discord.gg/Pqu4MyC9mx) if you'd like to collaborate on a project or discuss web development.
+
+*You can also find me on local messaging apps:*
+- [Bale](https://ble.ir/Aydope)
+- [Rubika](https://rubika.ir/rAydope)
 
 #
 
