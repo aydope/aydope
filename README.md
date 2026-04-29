@@ -8,26 +8,16 @@ const response = {
       dob: "June 1st",
     },
     skills: {
-      frontend: [
-        "Html5",
-        "Css3",
-        "JavaScript",
-        "TypeScript",
-        "React.js",
-        "PWA",
-      ],
-      backend: ["Node.js", "Express.js", "Nest.js", "RESTful API", "WebSocket/SocketIO"],
+      frontend: ["Html5", "Css3", "JavaScript", "TypeScript", "React.js"],
+      backend: ["Node.js", "Express.js", "Nest.js"],
       database: ["MongoDB"],
-      auth: ["JWT", "Password Hashing"],
-      architecture: ["MVC", "Modular Architecture", "Singleton Pattern"],
-      tools: ["Git", "GitHub", "GitLab", "Postman", "HTTPie"],
-      deployment: ["Render"],
+      other: ["Git", "REST APIs", "PWA", "WebSocket/Socket.IO"],
     },
   },
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.5.9",
+    version: "1.5.7",
   },
 };
 ```
