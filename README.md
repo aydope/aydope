@@ -1,6 +1,6 @@
 ```js
 const response = {
-  status: 200,
+  status: 201,
   data: {
     person: {
       name: "Amin",
@@ -9,15 +9,15 @@ const response = {
     },
     skills: {
       frontend: ["Html5", "Css3", "JavaScript", "TypeScript", "React.js"],
-      backend: ["Node.js", "Express.js"],
+      backend: ["Node.js", "Express.js", "Nest.js"],
       database: ["MongoDB"],
-      other: ["Git", "REST APIs"],
+      other: ["Git", "REST APIs", "PWA"],
     },
   },
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.4.3",
+    version: "1.4.6",
   },
 };
 ```
@@ -36,7 +36,7 @@ If you’re interested in building something exciting or simply want to chat abo
 
 ### Here are the technologies I work with:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,ts,react,npm,nodejs,expressjs,mongodb,gitlab,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,ts,react,npm,nodejs,expressjs,nestjs,mongodb,gitlab,vscode,python)
 
 #
 
