@@ -1,23 +1,30 @@
 ```js
 const response = {
-  status: 201,
+  statusCode: 201,
+  success: true,
   data: {
-    person: {
-      name: "Amin",
-      knownAs: "Aydope",
-      dob: "June 1st",
+    profile: {
+      fullName: "Amin Sadeghi",
+      username: "Aydope",
+      dateOfBirth: "2006-06-01T00:00:00.000Z",
     },
-    skills: {
-      frontend: ["Html5", "Css3", "JavaScript", "TypeScript", "React.js"],
-      backend: ["Node.js", "Express.js", "Nest.js"],
-      database: ["MongoDB"],
-      other: ["Git", "REST APIs", "PWA", "WebSocket/Socket.IO"],
+    technicalSkills: {
+      frontend: {
+        languages: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
+        frameworks: [],
+      },
+      backend: {
+        runtimes: ["Node.js"],
+        frameworks: ["Express.js", "Nest.js"],
+      },
+      databases: ["MongoDB"],
+      tools: ["Git", "REST APIs", "PWA", "WebSocket"],
     },
   },
-  meta: {
-    lastUpdated: new Date().toISOString(),
-    profileVisibility: "public",
-    version: "1.5.7",
+  metadata: {
+    lastModified: new Date().toISOString(),
+    visibility: "public",
+    apiVersion: "1.5.9",
   },
 };
 ```
@@ -26,13 +33,17 @@ const response = {
 
 I'm Amin, a web developer from Iran who loves coding and building cool things.
 
-I have a solid understanding of web development and work comfortably in both **Front-End** and **Back-End** development. I focus on learning continuously and building personal projects to strengthen my skills and deepen my knowledge.
+I'm a Junior developer in both Front-End and Back-End, though I have more experience in Back-End.
+I'm still building my Front-End skills and gaining experience every day.
+My focus is on continuous learning — and I truly love learning.
 
-While I’m still at the beginning of my professional journey, I’ve completed several personal projects that helped me grow as a developer and write cleaner, more structured, and maintainable code.
+While I don't have professional work experience yet, I'm constantly improving myself through problem-solving and building personal projects.
+I focus on writing clean, structured, and maintainable code.
+Every project teaches me something new and brings me one step closer to being job-ready.
 
-Feel free to reach out on [Discord](https://discord.gg/Pqu4MyC9mx) if you'd like to collaborate on a project or discuss web development.
+Let's connect on [Discord](https://discord.gg/Pqu4MyC9mx) if you're interested in collaborating on projects or discussing web dev.
 
-*You can also find me on local messaging apps:*
+*You can also connect with me on local messaging apps:*
 - [Bale](https://ble.ir/Aydope)
 - [Rubika](https://rubika.ir/rAydope)
 
