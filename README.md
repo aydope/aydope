@@ -11,11 +11,11 @@ const response = {
     technicalSkills: {
       frontend: {
         languages: ["HTML5", "CSS3", "JavaScript", "TypeScript"],
-        frameworks: [],
+        frameworks: ["React"],
       },
       backend: {
         runtimes: ["Node.js"],
-        frameworks: ["Express.js", "Nest.js"],
+        frameworks: ["Express.js", "Nest.js", "Fastify"],
       },
       databases: ["MongoDB"],
       tools: ["Git", "REST APIs", "PWA", "WebSocket"],
@@ -24,7 +24,7 @@ const response = {
   metadata: {
     lastModified: new Date().toISOString(),
     visibility: "public",
-    apiVersion: "1.5.9",
+    apiVersion: "1.6.0",
   },
 };
 ```
@@ -41,11 +41,11 @@ While I don't have professional work experience yet, I'm constantly improving my
 I focus on writing clean, structured, and maintainable code.
 Every project teaches me something new and brings me one step closer to being job-ready.
 
-Let's connect on [Discord](https://discord.gg/Pqu4MyC9mx) if you're interested in collaborating on projects or discussing web dev.
+Let's connect on [Telegram](https://t.me/Aydope) if you're interested in collaborating on projects or discussing web dev.
 
 *You can also connect with me on local messaging apps:*
 - [Bale](https://ble.ir/Aydope)
-- [Rubika](https://rubika.ir/rAydope)
+- [Eitaa](https://eitaa.com/aydope)
 
 #
 
