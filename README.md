@@ -18,6 +18,7 @@ const response = {
         frameworks: ["Express.js", "Nest.js", "Fastify"],
       },
       databases: ["MongoDB"],
+      orm: ["Mongoose", "Sequelize"],
       tools: ["Git", "REST APIs", "PWA", "WebSocket"],
     },
   },
