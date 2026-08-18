@@ -4,7 +4,7 @@ const response = {
   success: true,
   data: {
     profile: {
-      fullName: "Amin Sadeghi",
+      fullName: "Mohammad Amin Sadeghi",
       username: "Aydope",
       dateOfBirth: "2006-06-01T00:00:00.000Z",
     },
@@ -32,15 +32,13 @@ const response = {
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=720&lines=Hi+I'm+Amin;I'm+a+MERN-Stack+Developer;I+build+modern+and+scalable+web+apps;I+like+writing+clean+and+simple+code;Welcome+to+my+GitHub+profile" alt="Typing SVG"/></h1>
 
-I'm Amin, a web developer from Iran who loves coding and building cool things.
+I'm Amin, a web developer from Iran who loves building things and solving problems.
 
-I'm a Junior developer in both Front-End and Back-End, though I have more experience in Back-End.
-I'm still building my Front-End skills and gaining experience every day.
-My focus is on continuous learning — and I truly love learning.
+I'm at a mid-level stage — stronger on the back-end, but improving my front-end skills daily. Learning is what drives me.
 
-While I don't have professional work experience yet, I'm constantly improving myself through problem-solving and building personal projects.
-I focus on writing clean, structured, and maintainable code.
-Every project teaches me something new and brings me one step closer to being job-ready.
+No professional experience yet, but I stay sharp through personal projects and coding challenges. Clean, maintainable code is important to me, and every project gets me closer to being job-ready.
+
+Problem-solving? That's my favorite part.
 
 Let's connect on [Telegram](https://t.me/Aydope) if you're interested in collaborating on projects or discussing web dev.
 
