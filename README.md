@@ -32,13 +32,13 @@ const response = {
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=720&lines=Hi+I'm+Amin;I'm+a+MERN-Stack+Developer;I+build+modern+and+scalable+web+apps;I+like+writing+clean+and+simple+code;Welcome+to+my+GitHub+profile" alt="Typing SVG"/></h1>
 
-I'm Amin, a web developer from Iran who loves building things and solving problems.
+I’m a Full-Stack Web Developer focused on building modern web applications with JavaScript, TypeScript, Node.js, React, and MongoDB.
 
-I'm at a mid-level stage — stronger on the back-end, but improving my front-end skills daily. Learning is what drives me.
+My main focus is backend development, especially building REST APIs, authentication systems, database-driven applications, and real-time features. I also work with React and enjoy building complete products from the backend to the frontend.
 
-No professional experience yet, but I stay sharp through personal projects and coding challenges. Clean, maintainable code is important to me, and every project gets me closer to being job-ready.
+I’ve built several projects to develop my practical experience, including REST APIs, authentication systems, management platforms, and web applications. I care about clean code, good architecture, problem-solving, and building things that are actually useful.
 
-Problem-solving? That's my favorite part.
+I’m currently looking for an opportunity where I can contribute to real-world projects, work with a development team, and continue growing as a developer.
 
 Let's connect on [Telegram](https://t.me/Aydope) if you're interested in collaborating on projects or discussing web dev.
 
