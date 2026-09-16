@@ -25,7 +25,7 @@ const response = {
   metadata: {
     lastModified: new Date().toISOString(),
     visibility: "public",
-    apiVersion: "1.6.0",
+    apiVersion: "1.6.1",
   },
 };
 ```
@@ -40,11 +40,7 @@ I’ve built several projects to develop my practical experience, including REST
 
 I’m currently looking for an opportunity where I can contribute to real-world projects, work with a development team, and continue growing as a developer.
 
-Let's connect on [Telegram](https://t.me/Aydope) if you're interested in collaborating on projects or discussing web dev.
-
-*You can also connect with me on local messaging apps:*
-- [Bale](https://ble.ir/Aydope)
-- [Eitaa](https://eitaa.com/aydope)
+Let's connect on [Telegram](https://t.me/aydope) if you're interested in collaborating on projects or discussing web dev.
 
 #
 
