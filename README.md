@@ -32,7 +32,7 @@ const response = {
 
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=35&duration=3000&pause=1000&color=A4E3F8&center=true&vCenter=true&width=720&lines=Hi+I'm+Amin;I'm+a+MERN-Stack+Developer;I+build+modern+and+scalable+web+apps;I+like+writing+clean+and+simple+code;Welcome+to+my+GitHub+profile" alt="Typing SVG"/></h1>
 
-I’m a Full-Stack Web Developer focused on building modern web applications with JavaScript, TypeScript, Node.js, React, and MongoDB.
+I'm Amin, a 20-year-old developer from Iran. I go by "Aydope" online, and I build modern web applications with JavaScript, TypeScript, Node.js, React, and MongoDB.
 
 My main focus is backend development, especially building REST APIs, authentication systems, database-driven applications, and real-time features. I also work with React and enjoy building complete products from the backend to the frontend.
 
@@ -50,6 +50,7 @@ Let's connect on [Telegram](https://t.me/aydope) if you're interested in collabo
 
 #
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aydope&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aydope&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 
 #
