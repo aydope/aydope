@@ -56,7 +56,6 @@ Let's connect on [Telegram](https://t.me/aydope) if you're interested in collabo
 
 #
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aydope&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aydope&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 
 #
