@@ -1,12 +1,13 @@
 ```js
 const response = {
-  statusCode: 201,
+  statusCode: 200,
   success: true,
   data: {
     profile: {
       fullName: "Mohammad Amin Sadeghi",
       username: "Aydope",
       dateOfBirth: "2006-06-01T00:00:00.000Z",
+      role: "MERN Stack Developer",
     },
     technicalSkills: {
       frontend: {
@@ -16,16 +17,21 @@ const response = {
       backend: {
         runtimes: ["Node.js"],
         frameworks: ["Express.js", "Nest.js", "Fastify"],
+        apiStyle: ["REST"],
+        protocols: ["HTTP", "WebSocket"],
       },
-      databases: ["MongoDB"],
-      orm: ["Mongoose", "Sequelize"],
-      tools: ["Git", "REST APIs", "PWA", "WebSocket"],
+      database: {
+        type: "NoSQL",
+        primary: ["MongoDB"],
+        odm: ["Mongoose"],
+      },
+      tools: ["Git", "GitHub", "GitLab", "Npm", "PWA", "VsCode"],
     },
   },
   metadata: {
     lastModified: new Date().toISOString(),
     visibility: "public",
-    apiVersion: "1.6.1",
+    apiVersion: "1.6.2",
   },
 };
 ```
@@ -46,7 +52,7 @@ Let's connect on [Telegram](https://t.me/aydope) if you're interested in collabo
 
 ### Here are the technologies I work with:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,ts,react,npm,nodejs,expressjs,nestjs,mongodb,gitlab,vscode,python)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,github,react,npm,nodejs,expressjs,nestjs,mongodb,gitlab,vscode)
 
 #
 
